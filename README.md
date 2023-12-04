@@ -1,9 +1,11 @@
 # YOLOV8_ObjectDetection
 This Repository contains files pertaining to the Yolov8 Object detection system developed.
+
 Dataset Link: https://universe.roboflow.com/eepdatasets-fe5sq/eep_detect
 (Note:Retrieve the dataset in either YOLOv8 or YOLOv5 PyTorch format.)
 
 STEPS FOR EXECUTING FILES FROM THIS REPOSITORY:
+
 •	Step 1: Upload the zipped dataset folder to your Google Drive.
 
 •	Step 2: Duplicate the EEP_detection.ipynb file in Colab and commence training step by step.
